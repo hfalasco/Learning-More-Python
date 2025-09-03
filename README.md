@@ -17,3 +17,11 @@ Praticar boas práticas de programação.
 Reescrever projetos antigos em Python.
 
 Criar soluções úteis e divertidas.
+
+# Organização
+
+Renovar o RPG em C no qual eu desenvolvi e trazer ele para o python e ajudar a implementar as funções de lá aqui
+
+Anotar cada processo e pontuar as mudanças
+
+Organizar o projeto para que ele tenha uma forma fluida
