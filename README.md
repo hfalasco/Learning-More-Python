@@ -1,4 +1,4 @@
-# Learning-More-Python 🐍
+## Learning-More-Python 🐍 ##
 
 Bem-vindo(a)!
 
@@ -8,7 +8,7 @@ A ideia é desenvolver pequenos projetos, testar conceitos e, possivelmente, rev
 Quanto mais eu estudo essa linguagem, mais vejo o quanto ela é poderosa e versátil.
 Quero utilizá-la em projetos do dia a dia e registrar aqui minha evolução.
 
-# 📌 Objetivos
+##  📌 Objetivos ## 
 
 Aprender mais sobre Python e suas bibliotecas.
 
@@ -18,7 +18,7 @@ Reescrever projetos antigos em Python.
 
 Criar soluções úteis e divertidas.
 
-# Organização
+## Organização ##
 
 Renovar o RPG em C no qual eu desenvolvi e trazer ele para o python e ajudar a implementar as funções de lá aqui
 
