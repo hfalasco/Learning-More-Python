@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Criando uma planilha de vendas com dados fictícios
 dados = [
     ("Janeiro", "Norte", "Eletrônicos", "Notebook", 15, 4200),
     ("Janeiro", "Sul", "Eletrônicos", "Notebook", 18, 4200),
@@ -27,6 +28,7 @@ dados = [
     ("Junho", "Nordeste", "Celulares", "Smartphone", 41, 2800),
 ]
 
+# Criando um DataFrame e salvando em um arquivo Excel
 colunas = ["Mês", "Região", "Categoria", "Produto", "Quantidade", "Preço Unitário"]
 df = pd.DataFrame(dados, columns=colunas)
 df.to_excel("vendas.xlsx", sheet_name="Vendas", index=False)
